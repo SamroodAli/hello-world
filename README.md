@@ -14,7 +14,7 @@ This is the day 1 project on Microverse. A simple static website containing a he
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://samroodali.github.io/hello-world/)
 
 ## Getting Started
 for developers:
